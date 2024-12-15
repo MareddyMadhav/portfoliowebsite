@@ -1,13 +1,5 @@
 # Portfolio Website Using AI in 10min
 
-This is the repository for your reference for the youtube video where I teach you how you can build you portfolio website in 10min using AI.
-
-## Click to Watch Youtube Video
-[![Thumbnail](./Thumbnail.jpeg)](https://youtu.be/eiCjbOQL8fE "Click to Play Video Demonstration")
-
-## Live Link
-
-[Click Here For Live Link](https://halcyon-past.github.io/Portfolio-Using-AI-VeriPyed/)
 
 ## Setup
 
@@ -97,5 +89,4 @@ Follow the Youtube Video to Understand in Full Details how to perform each step
 
 ## Contact
 
-Made with ❤️ by Aritro Saha  
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/halcyon-past)      [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aritro-saha/)    [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://aritro.tech/)    [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@veripyed)
+Made with ❤️ by Mareddy Madhav 
